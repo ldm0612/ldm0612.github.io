@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "👋 Hi, I’m Daoming Liu\n\nMaster’s student in Data Science: Computational Linguistics at UBC.  Passionate about AI, NLP, and building impactful ML systems."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "📄 My Resume\nYou can view my resume directly below or download it as a PDF.\n🔗 Download Resume\n\n\nYour browser does not support PDFs. Download PDF."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Class Projects\n\n🌐 Bilingual Sentiment & Toxicity Pipeline\n🧬 Biomedical Lay Summarization\n🎬 Movie Review Corpus Annotation\n\n\n\n\nBilingual Sentiment Analysis and Detoxification\n\nOverview\nDeveloped an end-to-end NLP pipeline supporting English and Swahili for sentiment analysis, toxicity detection, and detoxification. Features both Rule-based and Agentic modes, leveraging LangChain and Hugging Face models.\nTech Stack:\n\n\n   \n\n🔗 View on GitHub\n\n\n\nBiomedical Lay Summarization\n\nOverview\nParticipated in the BioLaySumm 2025 shared task to generate layperson-friendly biomedical summaries from scientific abstracts. Leveraged pretrained language models fine-tuned for domain-specific summarization.\nTech Stack:\n\n\n \n\n🔗 View on GitHub\n\n\n\nMovie Review Corpus Annotation\n\nOverview\nCreated a movie review corpus annotated for sentiment and key aspects. Designed a React-based frontend for reviewing and annotating texts, and developed scraping and data cleaning tools.\nTech Stack:\n\n\n\n\n    \n\n🔗 View on GitHub"
+  }
+]
