@@ -1,0 +1,41 @@
+project:
+  type: website
+
+website:
+  title: "Daoming Liu"
+  search: false
+  navbar:
+    left:
+      - text: "About"
+        href: index.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Projects"
+        href: projects.qmd
+    right:
+    - icon: envelope-fill
+      href: mailto:ldm924940564@icloud.com
+    - icon: linkedin
+      href: https://linkedin.com/in/daoming-liu
+    - icon: github
+      href: https://github.com/ldm0612
+  # page-footer:
+  #   center: |
+  #     <div style="font-size: 1.5em;">
+  #       <a href="mailto:ldm924940564@icloud.com" style="margin: 0 15px;">
+  #         <i class="bi bi-envelope-fill"></i>
+  #       </a>
+  #       <a href="https://linkedin.com/in/daoming-liu" target="_blank" style="margin: 0 15px;">
+  #         <i class="bi bi-linkedin"></i>
+  #       </a>
+  #       <a href="https://github.com/ldm0612" target="_blank" style="margin: 0 15px;">
+  #         <i class="bi bi-github"></i>
+  #       </a>
+  #     </div>
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    includes:
+      in-header: |
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">

@@ -1,0 +1,67 @@
+---
+title: "Projects"
+---
+
+### Class Projects
+
+- [🌐 Bilingual Sentiment & Toxicity Pipeline](#project1)
+- [🧬 Biomedical Lay Summarization](#project2)
+- [🎬 Movie Review Corpus Annotation](#project3)
+
+---
+
+### Bilingual Sentiment Analysis and Detoxification {#project1}
+
+![](images/projects/detox.png){width=200px style="float: right; margin: 0 0 10px 10px;"}
+
+**Overview**  
+Developed an end-to-end NLP pipeline supporting English and Swahili for sentiment analysis, toxicity detection, and detoxification. Features both Rule-based and Agentic modes, leveraging LangChain and Hugging Face models.  
+
+**Tech Stack:**  
+<div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" data-bs-toggle="tooltip" title="Python" width="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" data-bs-toggle="tooltip" title="Hugging Face" width="40"/>
+  <img src="images/logos/langchain.png" alt="LangChain" data-bs-toggle="tooltip" title="LangChain" width="40"/>
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" data-bs-toggle="tooltip" title="Jupyter Notebook" width="40"/>
+</div>
+
+🔗 [View on GitHub](https://github.com/ldm0612/Agentic_Detox){.btn .btn-primary}
+
+---
+
+### Biomedical Lay Summarization {#project2}
+
+![](images/projects/biolay.png){width=200px style="float: right; margin: 0 0 10px 10px;"}
+
+**Overview**  
+Participated in the BioLaySumm 2025 shared task to generate layperson-friendly biomedical summaries from scientific abstracts. Leveraged pretrained language models fine-tuned for domain-specific summarization.  
+
+**Tech Stack:**  
+<div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" data-bs-toggle="tooltip" title="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" data-bs-toggle="tooltip" title="PyTorch" width="40"/>
+</div>
+
+🔗 [View on GitHub](https://github.com/ldm0612/Medical_Layman_Summary){.btn .btn-primary}
+
+---
+
+### Movie Review Corpus Annotation {#project3}
+
+![](images/projects/project3.png){width=200px style="float: right; margin: 0 0 10px 10px;"}
+
+**Overview**  
+Created a movie review corpus annotated for sentiment and key aspects. Designed a React-based frontend for reviewing and annotating texts, and developed scraping and data cleaning tools.  
+
+**Tech Stack:**  
+<div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" data-bs-toggle="tooltip" title="Python" width="40"/>
+<div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" data-bs-toggle="tooltip" title="Docker" width="40"/>
+  <img src="images/logos/bs.png" alt="BeautifulSoup" data-bs-toggle="tooltip" title="BeautifulSoup" width="40"/>
+  <img src="images/logos/openai.png" alt="OpenAI" data-bs-toggle="tooltip" title="OpenAI API" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" data-bs-toggle="tooltip" title="React.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" data-bs-toggle="tooltip" title="Node.js" width="40"/>
+</div>
+
+🔗 [View on GitHub](https://github.com/ldm0612/Movie_Review_Corpus_Annotation){.btn .btn-primary}

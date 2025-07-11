@@ -1,0 +1,12 @@
+---
+title: "About Me"
+---
+
+![](images/cl_profile-min.jpg){width=150px style="border-radius: 50%; display: block; margin-left: auto; margin-right: auto;"}
+
+# 👋 Hi, I’m Daoming Liu
+<div style="text-align: center;">
+Master’s student in Data Science: Computational Linguistics at UBC. <br>
+Passionate about AI, NLP, and building impactful ML systems.
+</div>
+
